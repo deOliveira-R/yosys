@@ -32,7 +32,7 @@ _skip = { # These are already described, no need to extract them from the vendor
           'MUX32', 'DL', 'DLE', 'DLC', 'DLCE', 'DLP', 'DLPE', 'DLN', 'DLNE',
           'DLNC', 'DLNCE', 'DLNP', 'DLNPE', 'rSDP', 'rSDPX9', 'rROM', 'rROMX9',
           'TLVDS_OEN_BK', 'DLL', 'DCC', 'I3C', 'IODELAYA', 'IODELAYC', 'IODELAYB',
-          'SPMI', 'PLLO', 'DCCG', 'MIPI_DPHY_RX', 'CLKDIVG', 'PWRGRD', 'FLASH96KA',
+          'SPMI', 'DCCG', 'MIPI_DPHY_RX', 'CLKDIVG', 'PWRGRD', 'FLASH96KA',
          # ADCs are in a separate file
          'ADCLRC', 'ADCULC', 'ADC', 'ADC_SAR', 'ADCA',
         }
